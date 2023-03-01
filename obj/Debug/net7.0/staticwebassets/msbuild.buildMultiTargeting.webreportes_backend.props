@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webreportes_backend.props" />
+</Project>
